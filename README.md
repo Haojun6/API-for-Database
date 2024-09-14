@@ -1,5 +1,6 @@
 - This is the cooperative project I involved. 
-- I was responsible for data scanning and testing. 
+- I was responsible for data scanning and testing.
+- Technology used: C# .NET + Python3 + PostgreSQL Kubernetes
 - I folked this from the original repo.
 
 
